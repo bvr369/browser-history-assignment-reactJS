@@ -1,0 +1,30 @@
+.list-item-cont {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  width: 80vw;
+  padding-left: 20px;
+}
+
+.inner-cont {
+  display: flex;
+  align-items: center;
+  width: 70%;
+}
+
+.logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 16px;
+}
+.delete-icon {
+  width: 25px;
+  height: 25px;
+}
+.cont-2 {
+  width: 100%;
+}
+.domain-url {
+  color: #64748b;
+  margin-left: 16px;
+}
